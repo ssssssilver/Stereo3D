@@ -8,4 +8,4 @@
 
 ## 额外功能 
 - 支持画面左右翻转
-- 支持sidebyside输入隔列输出
+- 支持AVProPlayer视频播放器的sidebyside输入转隔列输出
