@@ -13,6 +13,7 @@ using UnityEngine.Rendering.PostProcessing;
 #endif
 using UnityEngine.UI;
 using System;
+using Aspose.Pdf.Structure;
 
 
 public class Stereo3DImageNew : MonoBehaviour
