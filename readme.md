@@ -5,3 +5,7 @@
 - 行交错
 - SidebySide
 - TopBottom
+
+## 额外功能 
+- 支持画面左右翻转
+- 支持sidebyside输入隔列输出
